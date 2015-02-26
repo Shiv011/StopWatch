@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">StopWatch</string>
+
+    <string name="hello_world">0</string>
+    <string name="collon">:</string>
+    <string name="action_settings">Settings</string>
+</resources>
