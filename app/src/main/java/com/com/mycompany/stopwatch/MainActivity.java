@@ -72,11 +72,7 @@ public class MainActivity extends ActionBarActivity {
         button3.setText(""+num3);
         button4.setText(""+num4);
         button5.setText(""+num5);
-while(button1.getText().toString()==button2.getText().toString()||button1.getText().toString()==button3.getText().toString()||button1.getText().toString()==button4.getText().toString()||button1.getText().toString()==button5.getText().toString()){
-    Random Ran2 = new Random();
-    int num6=Ran2.nextInt(5);
-    button1.setText(""+num6);
-}
+
     }
 
 
